@@ -1,0 +1,42 @@
+.tête{
+    background-color: blue;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    height: 10vh;
+}
+/* .body{
+    height: 50vh;
+} */
+.carousol{
+    width: 100%;
+    height: 80vh;
+}
+.text{
+    color: white;
+}
+.img{
+    border-radius: 15px;
+    width: 10%;
+    height:10vh;
+}
+section{
+    display: flex;
+    justify-content: center;
+   margin-top: 10px;
+}
+li{
+    list-style: none;
+}
+.disposition{
+    background-color: brown;
+    display: flex !important; 
+    align-items: center !important;
+    justify-content: center;
+    width: 100%;
+}
+footer{
+    height: 50vh;
+
+}
